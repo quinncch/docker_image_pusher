@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #postgresql
-docker.io/postgres:15-alpine
+postgres:15-alpine
