@@ -7,4 +7,4 @@ xhofe/alist:latest
 #postgresql
 postgres:15-alpine
 #rabbitmq
-rabbitmq:3.13.7-management
+--platform=linux/x86_64 rabbitmq:3.13.7-management
