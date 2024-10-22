@@ -8,3 +8,4 @@ xhofe/alist:latest
 postgres:15-alpine
 #rabbitmq
 --platform=linux/x86_64 rabbitmq:3.13.7-management
+--platform=linux/x86_64 rabbitmq:3.8.18-management
