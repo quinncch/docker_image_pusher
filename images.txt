@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #postgresql
 postgres:15-alpine
+#rabbitmq
+rabbitmq:3.13.7-management
