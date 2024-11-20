@@ -11,3 +11,5 @@ postgres:15-alpine
 --platform=linux/x86_64 rabbitmq:3.8.18-management
 --platform=linux/x86_64 emqx/emqx:5.8.1
 alpine:latest
+--platform=linux/x86_64 alpine:latest
+--platform=linux/arm64 alpine:latest
