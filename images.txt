@@ -12,5 +12,6 @@
 #--platform=linux/x86_64 alpine:latest
 #--platform=linux/arm64 alpine:latest
 # docker:dind
---platform=linux/x86_64 docker:dind
---platform=linux/arm64 docker:dind
+#--platform=linux/x86_64 docker:dind
+#--platform=linux/arm64 docker:dind
+--platform=linux/x86_64 jenkins/jenkins:2.492.1-jdk17
