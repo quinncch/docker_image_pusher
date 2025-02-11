@@ -13,3 +13,6 @@ postgres:15-alpine
 alpine:latest
 --platform=linux/x86_64 alpine:latest
 --platform=linux/arm64 alpine:latest
+# docker:dind
+--platform=linux/x86_64 docker:dind
+--platform=linux/arm64 docker:dind
